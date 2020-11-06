@@ -9,6 +9,7 @@ body {
 }
 
 .header {
+    overflow: auto;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -135,6 +136,7 @@ p {
 }
 
 .search-engine-optimization {
+    overflow: auto;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -144,6 +146,7 @@ p {
 }
 
 .online-reputation-management {
+    overflow: auto;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -153,6 +156,7 @@ p {
 }
 
 .social-media-marketing {
+    overflow: auto;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
